@@ -20,7 +20,7 @@
 - Asipiring Software Engineer
 - A passionate Self-taught Front-end developer
 - Decent Expeienece in UX/UI Develepment
-- Personal website [link](https://www.tooosalty.github.io)
+- Personal website [link](https://tooosalty.github.io)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
